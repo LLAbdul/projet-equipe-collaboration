@@ -1,0 +1,3 @@
+Nom : Adel Tamani
+Rôle : Développeur
+Responsabilités : Développement et tests du code
