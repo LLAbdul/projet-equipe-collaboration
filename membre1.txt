@@ -1,3 +1,4 @@
 Nom : Abdul Rahman Zahid
 Rôle : Chef d'équipe
 Responsabilités : Coordination du projet et gestion du dépôt GitHub
+Compétences : Je suis capable de faire un site web avec HTML, CSS et JavaScript. Je peux aussi utiliser des frameworks comme React et Vue.js pour créer des applications web interactives. En plus, j'ai des compétences en backend avec Node.js et Express, ainsi qu'en bases de données avec MongoDB et MySQL.
