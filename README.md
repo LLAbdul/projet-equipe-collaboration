@@ -8,5 +8,5 @@ Une nouvelle ligne a été ajoutée
 ## Membres de l'équipe
 - Chef d'équipe : Abdul Rahman Zahid
 - Développeur : Adel Tamani
-
+- Testeur : Diane Devi
 
