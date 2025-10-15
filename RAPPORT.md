@@ -70,6 +70,9 @@ Nous avons simulé: (1) un conflit de fusion et sa résolution, (2) un commit er
 ### Partie 7 - Situation 4 : Visualisation de l'historique
 ![Historique git](../travail-a-remettre/screenshots/terminalHistorique.png)
 
+### Partie 8 - Page web finale
+![Page web finale](../travail-a-remettre/screenshots/rapportFinal.png)
+
 ## 4. Difficultés rencontrées
 
 ### Difficulté 1
