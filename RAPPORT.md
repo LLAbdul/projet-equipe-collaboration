@@ -1,4 +1,4 @@
-# Rapport de laboratoire Git - Équipe [Nom]
+# Rapport de laboratoire Git - Équipe [Les collaborateurs OP]
 
 ## 1. Membres de l'équipe
 - Membre 1 : [Abdul Rahman Zahid - Chef d'équipe]
