@@ -2,6 +2,7 @@
 ## Description
 Ce projet nous permet d'apprendre à utiliser Git en équipe.
 Ligne etape 7.2
+Une nouvelle ligne a été ajoutée
 
 
 ## Membres de l'équipe
